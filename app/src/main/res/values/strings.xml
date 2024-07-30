@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HealthTracker</string>
+    <string-array name="activity_levels">
+        <item>Stationary</item>
+        <item>Gently Active</item>
+        <item>Reasonably Active</item>
+        <item>Extremely Active</item>
+        <item>Exceptionally Active</item>
+    </string-array>
+</resources>
+

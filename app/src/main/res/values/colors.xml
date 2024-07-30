@@ -1,0 +1,12 @@
+<resources>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorAccent">#FF6200EE</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorText">#000000</color>
+    <color name="colorEditTextBackground">#E0E0E0</color>
+    <color name="colorButtonBackground">#FF6200EE</color>
+    <color name="colorButtonText">#FFFFFF</color>
+    <color name="colorSpinnerBackground">#E0E0E0</color>
+    <color name="colorToolbar">#FF03DAC5</color>
+</resources>
+

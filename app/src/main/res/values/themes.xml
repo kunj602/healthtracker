@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Healthtracker" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.Healthtracker" parent="Base.Theme.Healthtracker" >
+        <item name="android:statusBarColor">@color/colorToolbar</item>
+    </style>
+</resources>
