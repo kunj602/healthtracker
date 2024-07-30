@@ -14,8 +14,6 @@ The purpose of health tracker is to assits users in tracking and managing their 
 ![image3](https://github.com/user-attachments/assets/754689bc-92c4-46ae-b4e3-d74d7ce217f1)
 ![image4](https://github.com/user-attachments/assets/7f218ed4-e1b3-42ba-b022-0890b4f7d58c)
 ![image5](https://github.com/user-attachments/assets/36717717-777c-4d08-809f-1997c3145c20)
-![image6](https://github.com/user-attachments/assets/a25341fd-ae8b-4341-9501-d5638ad00efd)
-![image7](https://github.com/user-attachments/assets/097ba5d5-b03f-4c47-96e1-a376af45b99f)
-
-
+![image6](https://github.com/user-attachments/assets/a6876d5c-16a4-4f49-a450-284065f90ba7)
+![image7](https://github.com/user-attachments/assets/b66a9c92-a2f7-4783-b56a-f52345918d71)
 
